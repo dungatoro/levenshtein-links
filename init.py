@@ -4,7 +4,9 @@ import pickle
 words = {word.strip(): [] for word in open("words.txt", "r")}
 
 for i, word in enumerate(words):
-    print(len(words)-i)
+    if i%1000 == 0:
+        print(len(words)-i)
+
     new_words = []
     for new_letter in alphabet:
         # substitution

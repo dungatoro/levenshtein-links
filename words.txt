@@ -2647,6 +2647,8 @@ ashrams
 ashtray
 ashtrays
 ashy
+asia
+asian
 aside
 asides
 asinine
@@ -6386,6 +6388,8 @@ built
 bulb
 bulbous
 bulbs
+bulgaria
+bulgarian
 bulge
 bulged
 bulges
@@ -8505,6 +8509,7 @@ chin
 china
 chinchilla
 chinchillas
+chinese
 chink
 chinked
 chinking
@@ -29236,6 +29241,7 @@ juxtaposes
 juxtaposing
 juxtaposition
 juxtapositions
+ka
 kabob
 kabobs
 kabuki
@@ -42417,6 +42423,7 @@ raffle
 raffled
 raffles
 raffling
+rafi
 raft
 rafted
 rafter
